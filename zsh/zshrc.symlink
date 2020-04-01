@@ -2,6 +2,9 @@
 # uncomment this and the last line for zprof info
 # zmodload zsh/zprof
 
+source "$HOME"/.dotfiles/fonts/p10k-robbyrussell.zsh
+#echo "$HOME"/.dotfiles/fonts/p10k-robbyrussell.zsh
+
 # shortcut to this dotfiles path is $DOTFILES
 export DOTFILES="$HOME/.dotfiles"
 
